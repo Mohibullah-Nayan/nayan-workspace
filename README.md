@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohibullah Nayan</h1>
-<h3 align="center">🚀 Future Full-Stack Developer | AI Enthusiast | CSE Student</h3>
+<h3 align="center">📊 Data Science Enthusiast | 🚀 Future Full-Stack Developer | 🤖 AI Learner | 🎓 CSE Student</h3>
+
 
 ---
 
